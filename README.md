@@ -13,10 +13,10 @@ Completed this task on a jQuery tutorial. A random Starwars character generator 
 - Javascript
 - jQuery
 
-#Links
+# Links
 
-Solution URL: (https://github.com/Jephyy/Starwars-Character-Generator)
-Live site URL: (https://jephyy.github.io/Starwars-Character-Generator/)
+# Solution URL: (https://github.com/Jephyy/Starwars-Character-Generator)
+# Live site URL: (https://jephyy.github.io/Starwars-Character-Generator/)
 
 # Author
 
